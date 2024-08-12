@@ -1,0 +1,25 @@
+
+
+.btn-overview{
+    border: none;
+}
+.btn-overview:hover{
+    color: $success;
+}
+
+.table-list {
+    
+    a:hover{
+        background-color: $success;
+        color: #ffff;
+    }
+    a:active{
+        background-color: $success;
+        color: #ffff;
+    }
+}
+.prev,.next{
+    color: $success;
+}
+
+
